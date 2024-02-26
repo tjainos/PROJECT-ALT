@@ -1,0 +1,10 @@
+project/
+│
+├── src/
+│   ├── App.js
+│   ├── CounterPage.js
+│   ├── useCounter.js
+│   ├── NotFoundPage.js
+│   └── ErrorBoundaryTestPage.js
+├── package.json
+└── node_modules/
